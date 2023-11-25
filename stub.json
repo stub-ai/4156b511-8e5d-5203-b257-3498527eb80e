@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a SAP CAP application that uses dynamic CRUD operations and TypeORM to connect to any kind of database.","md5":"1a0305cfde58ef8229c0c5ecb900c3cf"}]}
